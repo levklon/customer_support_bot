@@ -3,6 +3,8 @@
 ![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen.svg)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)
 
 ## Overview
 
@@ -76,6 +78,11 @@ Follow these steps to set up the bot on your local machine:
 - Multi-language Support: Add support for multiple languages to cater to a global audience.
 - Advanced Analytics: Integrate with analytical tools to provide insights into customer interactions.
 - AI Integration: Use AI to provide more intelligent and personalized customer support.
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any changes.
+
 
 ## License
 
